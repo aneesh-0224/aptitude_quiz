@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/aptitude_quiz/static/js/main.c1120d29.chunk.js",
+    "main.js.map": "/aptitude_quiz/static/js/main.c1120d29.chunk.js.map",
+    "runtime-main.js": "/aptitude_quiz/static/js/runtime-main.63ffdf7b.js",
+    "runtime-main.js.map": "/aptitude_quiz/static/js/runtime-main.63ffdf7b.js.map",
+    "static/js/2.934abb5a.chunk.js": "/aptitude_quiz/static/js/2.934abb5a.chunk.js",
+    "static/js/2.934abb5a.chunk.js.map": "/aptitude_quiz/static/js/2.934abb5a.chunk.js.map",
+    "index.html": "/aptitude_quiz/index.html",
+    "static/js/2.934abb5a.chunk.js.LICENSE.txt": "/aptitude_quiz/static/js/2.934abb5a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63ffdf7b.js",
+    "static/js/2.934abb5a.chunk.js",
+    "static/js/main.c1120d29.chunk.js"
+  ]
+}
