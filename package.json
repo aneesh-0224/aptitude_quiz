@@ -1,7 +1,7 @@
 {
   "name": "quiz-app",
   "version": "0.1.0",
-  "homepage": "https://roshgupta.github.io/Aptitude-Quiz-App",
+  "homepage": "https://aneesh-0224.github.io/aptitude_quiz",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
